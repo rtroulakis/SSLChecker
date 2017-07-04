@@ -14,6 +14,6 @@ We need to have 2 arguments :
 
 
 command:
-python3 sslchecker.py inputfile.txt outputfile.txt
+**python3 sslchecker.py inputfile.txt outputfile.txt**
 
 Thanks
