@@ -7,8 +7,8 @@ To run this script you need to have Python version > 3
 
 We need to have 2 arguments :
 
-* [output file (outputfile.txt)
-* [input file (inputfile.txt)
+* output file (outputfile.txt)
+* input file (inputfile.txt)
 
 
 
